@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1d243293-416c-49a2-b0a3-d1b1beef056c",
+    "data": [
+      {
+        "text": "outgoing",
+        "alias": "direction",
+        "meta": "@Direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536512916
+  },
+  {
+    "id": "2f0f5d72-d7b3-4e5e-8bfe-3ba349aab529",
+    "data": [
+      {
+        "text": "incoming",
+        "alias": "direction",
+        "meta": "@Direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536512916
+  },
+  {
+    "id": "c047c349-5166-40ea-addb-dbe7f74d81eb",
+    "data": [
+      {
+        "text": "outbound",
+        "alias": "direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536498666
+  },
+  {
+    "id": "8912acb1-2fc1-40a3-be50-476ddf702ff5",
+    "data": [
+      {
+        "text": "inbound",
+        "alias": "direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536498666
+  }
+]

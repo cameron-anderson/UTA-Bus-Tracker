@@ -1,0 +1,16 @@
+[
+  {
+    "value": "inbound",
+    "synonyms": [
+      "inbound",
+      "incoming"
+    ]
+  },
+  {
+    "value": "outbound",
+    "synonyms": [
+      "outbound",
+      "outgoing"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "fc4b469a-1df0-4d8c-b2fa-95022bbfefcb",
+  "name": "bus direction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "color",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f17c0070-c6ea-495a-a486-0c96ac239387",
+          "required": true,
+          "dataType": "@Direction",
+          "name": "direction",
+          "value": "$direction",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Outbound or inbound?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536513128,
+  "fallbackIntent": false,
+  "events": []
+}
